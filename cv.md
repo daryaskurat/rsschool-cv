@@ -9,7 +9,7 @@
 3. Discord: Darya Skurat (@daryaskurat)
 ---
 ## About me
-I'm 23 years old. I work as business analyst.
+I'm 24 years old. I work as business analyst.
 This course is a great opportunity to study and learn the basics of web-development. 
 I like to learn something new and cope with various tasks. Self-training is very important and this course teaches just that.
 ---
