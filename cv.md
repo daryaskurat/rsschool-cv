@@ -34,9 +34,9 @@ function squareSum(numbers){
 ---
 ## My project
 CV: 
-[CV](https://github.com/daryaskurat/rsschool-cv/edit/gh-pages/cv.md)
-[Travel]( https://rolling-scopes-school.github.io/daryaskurat-JSFEPRESCHOOL2022Q2/travel/)
-[Momentum](https://github.com/rolling-scopes-school/daryaskurat-JSFEPRESCHOOL2022Q2/pull/15)
+* [CV](https://github.com/daryaskurat/rsschool-cv/edit/gh-pages/cv.md)
+* [Travel]( https://rolling-scopes-school.github.io/daryaskurat-JSFEPRESCHOOL2022Q2/travel/)
+* [Momentum](https://github.com/rolling-scopes-school/daryaskurat-JSFEPRESCHOOL2022Q2/pull/15)
 ---
 ## Education
 * Belarusian State University
