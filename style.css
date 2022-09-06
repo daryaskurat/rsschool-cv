@@ -1,0 +1,150 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    scroll-behavior: smooth; 
+}
+.wrapper{
+    width: 1200px;
+}
+.header-navigation{
+    height: 55px;
+    background-color: #89cdf1;
+}
+
+.header-navigation .navigation-inf {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+.navigation-item{
+    text-decoration: none;
+    background-color: #ffffff;
+    border-radius: 7px;
+    padding: 5px;
+    color: #89cdf1;
+    font-size: 20px;
+}
+.navigation-inf li{
+    display: block;
+    margin-right: 35px;
+}
+.navigation-inf a:hover{
+    background-color: #071460;
+    color: #ffffff;
+    cursor: grab;
+}
+.photo-name{
+    display: flex;
+    justify-content: flex-start;
+}
+.photo-name{
+    display: flex;
+    justify-content: space-evenly;
+}
+.name{
+   color: #89cdf1;
+   margin-top: 100px ;
+   font-size: 50px;
+}
+.photo{
+    height: 250px;
+    width: auto;
+    border: 4px solid #89cdf1;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+.general-inf{
+    display: flex;
+    justify-content: space-around;
+}
+.main-inf{
+    margin-top: 0px;
+    flex-wrap: wrap
+}
+.about-me{
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+hr{
+    height: 2px;
+    background-color: #89cdf1;
+}
+h2{
+    font-size: 25px;
+    color: #89cdf1;
+    margin-top: 15px;
+    text-align: center;
+}
+#years{
+    margin-left: 30px;
+}
+.contacts{
+    height: 75px;
+    background-color: #89cdf1;
+}
+.contacts ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+.contacts a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.contacts p:hover{
+    background-color: #071460;
+    cursor: grab;
+}
+.mail, .discord, .github{
+    margin-top: 15px;
+    width: 40px;
+    height: 35px;
+}
+.rsschool-project{
+    text-align: center;
+    text-decoration: none;
+}
+.rsschool-project a{
+    color: #000000;
+    text-decoration: none;
+    cursor: grab;
+}
+.rsschool-project a:hover{
+    color: #ffffff;
+    text-decoration: none;
+    cursor: grab;
+    background-color: #071460;
+
+}
+.footer-inf{
+    display: flex;
+    justify-content: space-between;
+    background-color: #89cdf1;
+    margin-top: 6px;
+    height: 70px;
+}
+.rsschool-logo-link img{
+    height: 70px;
+    width: 80px;
+    align-items: center;
+    margin-left: 10px;
+}
+.footer-link-github{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    width: 200px;
+    color: #ffffff;
+    align-items: center;
+}
+.footer-link-github a{
+    text-decoration: none;
+    color: #ffffff;
+    text-align: center;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 0 3px;
+    height: 20px;
+}
